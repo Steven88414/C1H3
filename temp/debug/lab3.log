@@ -1,0 +1,5 @@
+﻿C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(367,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.c
+  lab3.vcxproj -> C:\c_code\Ch1_Lab3\lab3\lab3\..\..\temp\debug\lab3.exe
+  lab3.vcxproj -> ..\..\temp\debug\lab3.pdb (Partial PDB)
